@@ -1,10 +1,10 @@
 
-#TinyProgress
+# TinyProgress
 
 
 TinyProgress is a simple progress bar
 
-##Usage
+## Usage
 
 ```Swift
 let bar = TinyProgress(frame: CGRect(x: 0, y: 0, width: 200, height: 16))
@@ -15,6 +15,6 @@ bar.innerBarPointDifference = 3 // inner bar is thiner and shorter than the oute
 ```
 
 
-##Installation
+## Installation
 
 Just copy TinyProgress.swift to your project
